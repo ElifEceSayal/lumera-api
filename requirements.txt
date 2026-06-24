@@ -6,3 +6,4 @@ gdown
 torch
 transformers
 numpy
+sentence-transformers
